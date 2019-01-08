@@ -1,0 +1,13 @@
+﻿@model Tree
+
+@{ViewBag.Title = "Дерево сотрудников"; }
+@using SubordinatesTree.Helpers
+
+<h4> Разверните список для просмотра: </h4>
+
+<body>
+    <ul class="treeCSS">
+        @Html.CreateList(Model.root)
+    </ul>
+    <script src="~/js/site.js"></script>
+</body>

@@ -1,0 +1,11 @@
+C:\Users\Рябина\source\repos\SubordinatesTree\SubordinatesTree\bin\Debug\netcoreapp2.0\SubordinatesTree.deps.json
+C:\Users\Рябина\source\repos\SubordinatesTree\SubordinatesTree\bin\Debug\netcoreapp2.0\SubordinatesTree.runtimeconfig.json
+C:\Users\Рябина\source\repos\SubordinatesTree\SubordinatesTree\bin\Debug\netcoreapp2.0\SubordinatesTree.runtimeconfig.dev.json
+C:\Users\Рябина\source\repos\SubordinatesTree\SubordinatesTree\bin\Debug\netcoreapp2.0\SubordinatesTree.dll
+C:\Users\Рябина\source\repos\SubordinatesTree\SubordinatesTree\bin\Debug\netcoreapp2.0\SubordinatesTree.pdb
+C:\Users\Рябина\source\repos\SubordinatesTree\SubordinatesTree\obj\Debug\netcoreapp2.0\SubordinatesTree.csprojResolveAssemblyReference.cache
+C:\Users\Рябина\source\repos\SubordinatesTree\SubordinatesTree\obj\Debug\netcoreapp2.0\SubordinatesTree.csproj.CoreCompileInputs.cache
+C:\Users\Рябина\source\repos\SubordinatesTree\SubordinatesTree\obj\Debug\netcoreapp2.0\SubordinatesTree.AssemblyInfoInputs.cache
+C:\Users\Рябина\source\repos\SubordinatesTree\SubordinatesTree\obj\Debug\netcoreapp2.0\SubordinatesTree.AssemblyInfo.cs
+C:\Users\Рябина\source\repos\SubordinatesTree\SubordinatesTree\obj\Debug\netcoreapp2.0\SubordinatesTree.dll
+C:\Users\Рябина\source\repos\SubordinatesTree\SubordinatesTree\obj\Debug\netcoreapp2.0\SubordinatesTree.pdb
